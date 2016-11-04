@@ -2,11 +2,9 @@ Coursera Course: Getting and Cleaning Data
 
 Assignment Submission Files
 
-**
 1. README.md
 2. run_analysis.R
 3. CookBook.md - that describes the variables
-**
 
 Instructions
 
